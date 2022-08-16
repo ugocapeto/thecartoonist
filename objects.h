@@ -1,0 +1,10 @@
+objects=\
+Color.o\
+Filtering.o\
+FImage.o\
+image_abstraction_filter.o\
+lerpColor.o\
+PImage.o\
+PVector.o\
+Tensor.o\
+thecartoonist_main.o
