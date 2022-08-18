@@ -32,7 +32,7 @@ Dependencies (check the Makefiles):
 
 "common" repo
 
-# Disclaimer
+# Notes
 
 The code comes from a "Processing" implementation by Thomas Lindemeier which I ported to C++ and to which I added support for basic image formats: jpeg, png, and tiff.
 
